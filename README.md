@@ -1,2 +1,2 @@
-# KE-TFT-V1.0
-Documentation for KE-TFT-V1.0
+# VIKAY-TFT-V1.0
+Documentation for VIKAY-TFT-V1.0
